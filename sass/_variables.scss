@@ -1,9 +1,20 @@
 // Colores
-$blanco: #ffffff;
-$gris-claro: #f4f4f4;
-$gris-borde: #ccc;
-$negro: #000;
-$gris-hover: #eee;
+$color-bg-general: #f4f4f4;
+$color-bg-white: #ffffff;
+$color-border-light: #ccc;
+$color-border-dark: #000;
+$color-hover-bg: #eee;
 
-// Fuente
-$fuente-principal: Arial, Helvetica, sans-serif;
+// Tipografía
+$font-main: Arial, Helvetica, sans-serif;
+
+// Transiciones
+$transition-fast: 0.3s ease;
+$transition-main: all 0.3s ease;
+
+// Sombras
+$shadow-soft: 0px 8px 20px rgba(0, 0, 0, 0.2);
+$shadow-focus: 0 0 5px rgba(0, 0, 0, 0.2);
+
+// Breakpoints
+$mobile: 768px;
